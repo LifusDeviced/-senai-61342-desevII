@@ -1,0 +1,162 @@
+[
+    {
+        "name": "Genji",
+        "category": "ninja",
+        "attack": 4,
+        "defense": 2,
+        "speed": 3,
+        "health": 100,
+        "expertise": 2,
+        "level": 1
+    },
+    {
+        "name": "Hana",
+        "category": "samurai",
+        "attack": 3,
+        "defense": 4,
+        "speed": 2,
+        "health": 150,
+        "expertise": 2,
+        "level": 1
+    },
+    {
+        "name": "Zennyata",
+        "category": "sorcerer",
+        "attack": 4,
+        "defense": 4,
+        "speed": 2,
+        "health": 75,
+        "expertise": 2,
+        "level": 1
+    },
+    {
+        "name": "Hanzo",
+        "category": "ninja",
+        "attack": 5,
+        "defense": 2,
+        "speed": 2,
+        "health": 100,
+        "expertise": 2,
+        "level": 1
+    },
+    {
+        "name": "Zarya",
+        "category": "samurai",
+        "attack": 2,
+        "defense": 5,
+        "speed": 2,
+        "health": 150,
+        "expertise": 2,
+        "level": 1
+    },
+    {
+        "name": "Moira",
+        "category": "sorcerer",
+        "attack": 4,
+        "defense": 2,
+        "speed": 3,
+        "health": 75,
+        "expertise": 2,
+        "level": 1
+    },
+    {
+        "name": "Akande",
+        "category": "ninja",
+        "attack": 5,
+        "defense": 3,
+        "speed": 1,
+        "health": 100,
+        "expertise": 2,
+        "level": 1
+    },
+    {
+        "name": "Orisa",
+        "category": "samurai",
+        "attack": 1,
+        "defense": 5,
+        "speed": 3,
+        "health": 150,
+        "expertise": 2,
+        "level": 1
+    },
+    {
+        "name": "Mercy",
+        "category": "sorcerer",
+        "attack": 2,
+        "defense": 4,
+        "speed": 4,
+        "health": 75,
+        "expertise": 2,
+        "level": 1
+    },
+    {
+        "name": "Oxton",
+        "category": "ninja",
+        "attack": 4,
+        "defense": 1,
+        "speed": 4,
+        "health": 100,
+        "expertise": 2,
+        "level": 1
+    },
+    {
+        "name": "Reinhardt",
+        "category": "samurai",
+        "attack": 2,
+        "defense": 6,
+        "speed": 1,
+        "health": 150,
+        "expertise": 2,
+        "level": 1
+    },
+    {
+        "name": "Lúcio",
+        "category": "sorcerer",
+        "attack": 3,
+        "defense": 3,
+        "speed": 3,
+        "health": 75,
+        "expertise": 2,
+        "level": 1
+    },
+    {
+        "name": "Amelie",
+        "category": "ninja",
+        "attack": 5,
+        "defense": 1,
+        "speed": 3,
+        "health": 100,
+        "expertise": 2,
+        "level": 1
+    },
+    {
+        "name": "Roadhog",
+        "category": "samurai",
+        "attack": 3,
+        "defense": 5,
+        "speed": 1,
+        "health": 150,
+        "expertise": 2,
+        "level": 1
+    },
+    {
+        "name": "Ana",
+        "category": "sorcerer",
+        "attack": 3,
+        "defense": 4,
+        "speed": 2,
+        "health": 75,
+        "expertise": 2,
+        "level": 1
+    },
+    {
+        "name": "Fawkes",
+        "category": "ninja",
+        "attack": 6,
+        "defense": 1,
+        "speed": 2,
+        "health": 100,
+        "expertise": 2,
+        "level": 1
+    }
+]
